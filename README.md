@@ -33,6 +33,17 @@ _The application is supported by Qlik&#39;s Americas Enterprise Architecture tea
 - **Via what mechanism are data connections being used?**
   - The application visualizes what connections are being run as tasks, manually, or in ODAG (or other API) requests. This is crucial in understanding user behavior.
 
+# Screenshots
+
+![1](../assets/qs-data-connection-analyzer-1.png)
+![2](../assets/qs-data-connection-analyzer-2.png)
+![3](../assets/qs-data-connection-analyzer-3.png)
+![4](../assets/qs-data-connection-analyzer-4.png)
+![5](../assets/qs-data-connection-analyzer-5.png)
+![6](../assets/qs-data-connection-analyzer-6.png)
+![7](../assets/qs-data-connection-analyzer-7.png)
+![8](../assets/qs-data-connection-analyzer-8.png)
+
 # Environmental &amp; App Prerequisite Steps
 
 - Import the qvf into the QMC
