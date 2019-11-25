@@ -8,6 +8,9 @@ The Qlik Sense Data Connection Analyzer is a Qlik application that parses script
 
 _The application is supported by Qlik&#39;s Americas Enterprise Architecture team, and uses only native connections and capabilities of the Qlik platform—making it plug-and-play._
 
+# Download
+https://github.com/eapowertools/qs-data-connection-analyzer/releases
+
 # Common Questions &amp; Associated Benefits of the App
 
 - **Which connections are no longer used?** _(A data connection is found in a script log and exists in the Qlik Sense site, however no associated applications currently exist that at one point had used it)._
